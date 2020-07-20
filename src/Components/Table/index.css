@@ -1,0 +1,54 @@
+    .containerTable .container{
+        background-color:#fff;
+        padding: 10px;
+
+    }
+    .custom-switch{
+        padding-left: 0 !important;
+    }
+
+    .containerTable{
+        background-color:#fff;
+        padding: 10px;
+    }
+
+    .containerTable .title{
+        width:100vw;
+        text-align:center;
+        color:#004d58;
+        font-size:20px;
+        font-weight:bold;
+        margin-bottom:5px;
+    }
+
+    .containerTable .titlebotao{
+        display: flex;
+        justify-content: flex-end;
+    }
+        
+    
+    .containerTable .table{
+        margin-top: 10;
+        padding:10px;
+        border: 1px #004d58 solid;
+    }
+        
+    
+    .containerTable text{
+        color:#004d58;
+    }
+    
+    .containerTable text:hover{
+        color:#fff;
+        background-color:#004d58 !important;
+    }
+        
+    
+    .containerTable tbody{        
+        font-size: 12px;
+    }
+
+    .containerTable .td{
+        padding: 0px !important;
+    }
+

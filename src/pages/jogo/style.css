@@ -1,0 +1,29 @@
+.containerJogoVelha{
+    display: flex;
+    width: 100%;
+
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.linhaJogoVelha{
+    width: 100px;
+    height: 100px;
+}
+
+.ColunaJogoVelha{
+    cursor: pointer;
+    background-color: bisque;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.direita{
+    
+}
